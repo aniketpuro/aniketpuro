@@ -20,7 +20,7 @@
 - **[Background Remover with Kubernetes](https://github.com/aniketpuro/Background-Remover-Python-ON-AWS-by-Kubernetes)**
   - A containerized application using Docker, deployed on Kubernetes with AWS integration.
   
-- **[Jenkins CI/CD Pipeline](https://github.com/aniketpurohit/Jenkins-Example-Project)**
+- **[Jenkins CI/CD Pipeline](https://github.com/aniketpuro/AWS_EKS-by-Terraform-Jinkens-Automation)**
   - Automating deployment pipelines using Jenkins, Docker, and AWS EC2.
 
 - **[AWS CloudFormation Templates](https://github.com/aniketpurohit/AWS-CloudFormation-Templates)**
