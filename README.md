@@ -17,7 +17,7 @@
 
 ### 🔧 **DevOps Projects**
 
-- **[Background Remover with Kubernetes](https://github.com/aniketpurohit/Background-Remover-Python-ON-AWS-by-Kubernetes)**
+- **[Background Remover with Kubernetes](https://github.com/aniketpuro/Background-Remover-Python-ON-AWS-by-Kubernetes)**
   - A containerized application using Docker, deployed on Kubernetes with AWS integration.
   
 - **[Jenkins CI/CD Pipeline](https://github.com/aniketpurohit/Jenkins-Example-Project)**
