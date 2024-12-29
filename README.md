@@ -93,7 +93,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketpurohit&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketpuro&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub stats"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketpurohit&hide=html&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketpuro&hide=html&layout=compact&theme=radical" alt="Top languages"/>
 </p>
