@@ -26,7 +26,7 @@
 - **[AWS CloudFormation Templates](https://github.com/aniketpurohit/AWS-CloudFormation-Templates)**
   - Infrastructure as Code (IaC) using AWS CloudFormation to automate cloud setups.
 
-- **[Dockerized MERN Stack Application](https://github.com/aniketpurohit/MERN-Stack-Dockerized)**
+- **[Dockerized MERN Stack Application](https://github.com/aniketpuro/Dockerized-MERN-Stack-Application)**
   - Full-stack web app with MongoDB, Express, React, and Node.js running in Docker containers.
 
 ---
