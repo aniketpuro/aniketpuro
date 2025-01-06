@@ -36,7 +36,7 @@
 - **[My Portfolio Website](https://github.com/aniketpurohit/portfolio-website)**
   - A personal portfolio website built using ReactJS, styled with TailwindCSS.
 
-- **[Real-Time Chat App with Socket.io](https://github.com/aniketpurohit/real-time-chat-app)**
+- **[Real-Time Chat App with Socket.io](https://github.com/aniketpuro/real-time-chat-app)**
   - A web-based real-time chat application using Node.js and Socket.io for instant communication.
 
 - **[Weather App using React & API](https://github.com/aniketpurohit/Weather-App-React)**
