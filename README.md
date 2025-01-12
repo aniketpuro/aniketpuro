@@ -90,6 +90,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+## My Holopin Badge Board
+[![Aniket's Holopin Board](https://holopin.me/aniketpuro)](https://holopin.io/@aniketpuro)
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
