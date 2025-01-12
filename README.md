@@ -92,7 +92,7 @@
 </p>
 
 ## My Holopin Badges
-Check out my [Holopin profile](https://holopin.io/@aniketpuro) to see my badges!
+[![An image of @aniketpuro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniketpuro)](https://holopin.io/@aniketpuro)
 
 
 <h3 align="center">📊 GitHub Stats</h3>
