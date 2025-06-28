@@ -33,7 +33,7 @@
 
 ### 🌐 **Web Development Projects**
 
-- **[My Portfolio Website](https://github.com/aniketpurohit/portfolio-website)**
+- **[My Portfolio Website](https://github.com/aniketpuro/Portfolio_website)**
 - [visit_here](https://v0-modern-portfolio-website-gamma-lyart.vercel.app/)
   - A personal portfolio website built using ReactJS, styled with TailwindCSS.
 
